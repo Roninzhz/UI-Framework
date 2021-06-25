@@ -6,6 +6,8 @@ using UnityEngine.UI;
 
 public class ChangeGamText : MonoBehaviour {
 
+	 public Button btn;
+
 	//声明一个Canvas
 	Canvas cavs;
 	// Use this for initialization

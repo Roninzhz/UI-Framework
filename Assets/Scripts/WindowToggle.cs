@@ -13,7 +13,6 @@ public class WindowToggle : MonoBehaviour {
 
     public GameObject OCpenSc_2;
 
-
     void Start()
     {
 

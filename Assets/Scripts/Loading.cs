@@ -65,7 +65,7 @@ public class Loading : MonoBehaviour {
         {
 			text.text = "加载完毕,立即进入...";
 			//延迟函数
-			Invoke("LoadChange", 3f);
+			Invoke("LoadChange", 1f);
         }
 	}
 }
